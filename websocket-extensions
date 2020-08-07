@@ -1,0 +1,7 @@
+"dependencies": {
+  "websocket-extensions": ">=0.1.4"
+}
+OR
+"devDependencies": {
+  "websocket-extensions": ">=0.1.4"
+}
